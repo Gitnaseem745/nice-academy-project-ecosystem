@@ -23,7 +23,7 @@ flowchart LR
 
 | Project Name | Key Technical Focus | Skills Proven & Outcomes |
 | :--- | :--- | :--- |
-| **1. [Personal Portfolio Website](../web-developer-angular/beginner/example-project)** | Semantic HTML, CSS Layouts | Ability to structure real pages and manage whitespace/layout effectively. |
+| **1. [Personal Portfolio Website](../web-developer-angular/beginner/personal-portfolio)** | Semantic HTML, CSS Layouts | Ability to structure real pages and manage whitespace/layout effectively. |
 | **2. Business Landing Page** | Responsiveness, Basic JS Logic | Understanding of responsive design principles and adding basic interactivity. |
 
 > **Resume Signal**

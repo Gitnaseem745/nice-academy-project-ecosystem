@@ -25,5 +25,5 @@ flowchart TD
     GD --> GD_H[Hard]
 
     %% Example Project Connection (Web Developer Beginner)
-    WD_B --> ExampleProject[Example Project]
+    WD_B --> PersonalPortfolio[Personal Portfolio]
 ```
